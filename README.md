@@ -10,7 +10,7 @@
   <a href="https://github.com/AaronHuus/resume/actions/workflows/main.yml">
     <img alt="GitHub Actions" src="https://github.com/AaronHuus/resume/actions/workflows/main.yml/badge.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/AaronHuus/resume/master/examples/resume.pdf">
+  <a href="https://raw.githubusercontent.com/AaronHuus/resume/master/docs/resume.pdf">
     <img alt="Aaron Huus Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/AaronHuus/resume/master/examples/resume-0.png)](https://raw.githubusercontent.com/AaronHuus/resume/master/examples/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/AaronHuus/resume/master/examples/resume-1.png)](https://raw.githubusercontent.com/AaronHuus/resume/master/examples/resume.pdf) |
+| [![Résumé](https://raw.githubusercontent.com/AaronHuus/resume/master/docs/resume-0.png)](https://raw.githubusercontent.com/AaronHuus/resume/master/docs/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/AaronHuus/resume/master/docs/resume-1.png)](https://raw.githubusercontent.com/AaronHuus/resume/master/docs/resume.pdf) |
 
 ## How to Use
 

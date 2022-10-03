@@ -37,16 +37,10 @@ If you don't want to install the dependencies on your system, this can also be o
 At a command prompt, run
 
 ```bash
-$ xelatex {your-cv}.tex
+$ ./make.sh
 ```
 
-Or using docker:
-
-```bash
-$ docker run --rm --user $(id -u):$(id -g) -i -w "/doc" -v "$PWD":/doc thomasweise/texlive make
-```
-
-In either case, this should result in the creation of ``{your-cv}.pdf``
+This should result in the creation of ``{your-resume}.pdf``
 
 
 ## Credit

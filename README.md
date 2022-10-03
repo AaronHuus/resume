@@ -61,4 +61,4 @@ In either case, this should result in the creation of ``{your-cv}.pdf``
 
 [**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
 
-[**Portfolio Icon**](https://www.flaticon.com/free-icons/portfolio)
+[**Portfolio Icon**](https://www.flaticon.com/free-icons/portfolio) Portfolio icons created by Freepik - Flaticon
